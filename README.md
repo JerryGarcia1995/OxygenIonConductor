@@ -37,11 +37,13 @@ Note. Will be uploaded soon in arXiv.
 
 How to compile:
 
+For example,
+
 g++ GoodDesigner.cpp -o GoodDesigner.x -std=c++11
 
-g++ GoodCurator.cpp -o GoodDesigner.x -std=c++11
+g++ GoodCurator.cpp -o GoodCurator.x -std=c++11
 
-g++ GoodRegressor_slow.cpp -o GoodDesigner.x -std=c++11
+mpicxx GoodRegressor_slow.cpp -o GoodRegressor.x -std=c++11
 
 Note. GoodDesigner and GoodRegressor need Eigen library (see https://libeigen.gitlab.io/): add -I/path/to/Eigen if you have your own Eigen directory.
 
