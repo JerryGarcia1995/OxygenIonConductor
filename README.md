@@ -17,7 +17,7 @@ Source -- Origin of the data within the publication (figure or table reference).
 Plot type -- Axis configuration used in the original Arrhenius representation (e.g., \log_e{\sigma_T}-\sfrac{1000}{T})
 
 [Reference]
-* Will be uploaded soon in arXiv.
+Note. Will be uploaded soon in arXiv.
 
 2. Symbolic regression modelling package: see modelling_GoodRegressor
 
@@ -25,8 +25,8 @@ How to compile:
 g++ GoodDesigner.cpp -o GoodDesigner.x -std=c++11
 g++ GoodCurator.cpp -o GoodDesigner.x -std=c++11
 g++ GoodRegressor_slow.cpp -o GoodDesigner.x -std=c++11
-* GoodDesigner and GoodRegressor need Eigen library (see https://libeigen.gitlab.io/): add -I/path/to/Eigen if you have your own Eigen directory.
-* As the filename suggests, there is a faster version (~x100 fast in node-hour scale) of "GoodRegressor", which is not open yet.
+Note. GoodDesigner and GoodRegressor need Eigen library (see https://libeigen.gitlab.io/): add -I/path/to/Eigen if you have your own Eigen directory.
+Note. As the filename suggests, there is a faster version (~x100 fast in node-hour scale) of "GoodRegressor", which is not open yet.
 
 Each directory contains input files and a source file (same in "CodeOnly")
 001_GoodDesigner: From compositions and structures, the module draws out features (descriptor candidates).
