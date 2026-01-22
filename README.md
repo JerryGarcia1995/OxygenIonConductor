@@ -33,7 +33,7 @@ Plot type -- Axis configuration used in the original Arrhenius representation (e
 
 Note. Will be uploaded soon in arXiv.
 
-*** Symbolic regression modelling package: see modelling_GoodRegressor**
+**Symbolic regression modelling package: see modelling_GoodRegressor**
 
 How to compile:
 
