@@ -1,4 +1,4 @@
-1. Main database: see database/oxygen_ion_conductor_dataset.csv
+* Main database: see database/oxygen_ion_conductor_dataset.csv
 
 Field	Description:
 
@@ -33,7 +33,7 @@ Plot type -- Axis configuration used in the original Arrhenius representation (e
 
 Note. Will be uploaded soon in arXiv.
 
-2. Symbolic regression modelling package: see modelling_GoodRegressor
+* Symbolic regression modelling package: see modelling_GoodRegressor
 
 How to compile:
 
