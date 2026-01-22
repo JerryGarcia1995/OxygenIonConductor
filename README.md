@@ -1,4 +1,4 @@
-*** Main database: see database/oxygen_ion_conductor_dataset.csv**
+**Main database: see database/oxygen_ion_conductor_dataset.csv**
 
 Field	Description:
 
