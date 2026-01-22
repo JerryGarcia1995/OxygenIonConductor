@@ -1,6 +1,4 @@
-- 1 -
-- 
-Main database: see database/oxygen_ion_conductor_dataset.csv
+1. Main database: see database/oxygen_ion_conductor_dataset.csv
 
 Field	Description:
 References --	Family name of the first author, journal title, volume, initial page number, and published year.
@@ -21,9 +19,7 @@ Plot type -- Axis configuration used in the original Arrhenius representation (e
 [Reference]
 * Will be uploaded soon in arXiv.
 
-- 2 -
-
-Symbolic regression modelling package: see modelling_GoodRegressor
+2. Symbolic regression modelling package: see modelling_GoodRegressor
 
 How to compile:
 g++ GoodDesigner.cpp -o GoodDesigner.x -std=c++11
