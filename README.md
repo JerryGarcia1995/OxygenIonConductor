@@ -49,7 +49,7 @@ Note. GoodDesigner and GoodRegressor need Eigen library (see https://libeigen.gi
 
 Note. As the filename suggests, there is a faster version (~x100 fast in node-hour scale) of "GoodRegressor", which is not open yet.
 
-Each directory contains input files and a source file (same in "CodeOnly")
+Each directory contains input files and a source file (same in "CodeOnly"). On top of that, output files are separated in ref_output.
 
 001_GoodDesigner: From compositions and structures, the module draws out features (descriptor candidates).
 
