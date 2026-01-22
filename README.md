@@ -29,7 +29,7 @@ Source -- Origin of the data within the publication (figure or table reference).
 
 Plot type -- Axis configuration used in the original Arrhenius representation (e.g., \log_e{\sigma_T}-\sfrac{1000}{T})
 
-[Reference]
+**[Reference]**
 
 Note. Will be uploaded soon in arXiv.
 
@@ -57,6 +57,6 @@ Each directory contains input files and a source file (same in "CodeOnly")
 
 004_GoodDesignerPost: The module generates the final stackin-ensembled models and finds the important features/interactions. On top of this, it generates LaTeX/Mathematica codes of the symbolic regression formulae for users' further post-process.
 
-[Reference]
+**[Reference]**
 
 S.-H. Jang, GoodRegressor: A General-Purpose Symbolic Regression Framework for Physically Interpretable Materials Modeling, arXiv:2510.18325
