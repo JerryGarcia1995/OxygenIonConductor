@@ -1,0 +1,13 @@
+name Ea
+beta_target_type(e.g.,none-logit-probit-cloglog-cauchit-nloglog) none
+basic_properties_GoodRegressor_filename OxygenIon//Ea_ch3//basic_properties_GoodRegressor.txt
+chain_filenames
+OxygenIon//Ea_ch3//output_input_oxygenionconductor_Ea_Ea_1L20.txt
+OxygenIon//Ea_ch3//output_input_oxygenionconductor_Ea_Ea_2L19I.txt
+OxygenIon//Ea_ch3//output_input_oxygenionconductor_Ea_Ea_3L18I.txt
+OxygenIon//Ea_ch3//output_input_oxygenionconductor_Ea_Ea_4L17I.txt
+OxygenIon//Ea_ch3//output_input_oxygenionconductor_Ea_Ea_5L16I.txt
+OxygenIon//Ea_ch3//output_input_oxygenionconductor_Ea_Ea_6L15I.txt
+OxygenIon//Ea_ch3//output_input_oxygenionconductor_Ea_Ea_7L14I.txt
+OxygenIon//Ea_ch3//output_input_oxygenionconductor_Ea_Ea_8L13I.txt
+STOP

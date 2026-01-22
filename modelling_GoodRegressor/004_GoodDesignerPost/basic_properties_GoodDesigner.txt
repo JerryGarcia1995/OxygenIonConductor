@@ -1,0 +1,59 @@
+AtomDatListFilename(inTSV)	general_atomdat.txt
+FaceFilename[inTSV,IfNone"-";MustInclude"AtomName"(first)and"Face"(second)Columns] -	
+StructureListFilename(inTSV)/UseStrName(Yes1No0)	strdat.txt	1
+MaterialsFilename(inTSV)/HeadExists(Yes1No0)/PostTagNames(IfExists)	mat.txt 1 Ea	Log10A
+RegModelFilename(inTSV,IfNone"-") Ea.txt Ea_ch2.txt Ea_ch3.txt Ea_ch4.txt Ea_ch5.txt Ea_ch6.txt Ea_ch7.txt Ea_ch8.txt Ea_ch9.txt Ea_ch10.txt Log10A.txt Log10A_ch2.txt Log10A_ch3.txt Log10A_ch4.txt Log10A_ch5.txt Log10A_ch6.txt Log10A_ch7.txt Log10A_ch8.txt Log10A_ch9.txt Log10A_ch10.txt
+MapOutSpaceFilename(inTSV,IfNone"-") -
+TargetVReg(GiveSAMENumberOfRegModelGroups) 100 10
+TargetStdDvReg(GiveSAMENumberOfRegModelGroups) 50 0.5
+ZDistWeight(GiveSAMENumberOfRegModelGroups) 0.9 0.1
+UseAve(GiveSAMENumberOfRegModelGroups,IfNone"-") - -
+UseStdDv(GiveSAMENumberOfRegModelGroups,IfNone"-") - -
+ModulateContentFactor 1.0
+UseOffset(Yes1No0;If"1",NeedReferendumColumns[PostTagName==RegModelName]InMaterialsFilename)	1
+MaxIteration 100
+NeighborSelectSpace ElectronegativityFromO Radius06 Valence
+NeighborZCrit -0.3 -0.5 0.0
+ExcludeNeighbors(IfNone,"-") Pb Be Cr Tl As Cd Mn Fe Co Ni Cu Pd Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Os Ir Pt Au Hg Cs Bi Po At Rn Fr Ra Ac Th Pa U Np Pu Am Cm Bk Cf Es Fm Md No Lr Rf Db Sg Bh Hs Mt Ds Rg Cn Nh Fl Mc Lv Ts Og Mm Lm
+DoNotFindNeighbors(IfNone,"-") -
+AnionName(IfNone,"-"//YouCanAddCationNamesAlso...Try)	O
+AnionValence	-2
+VInfinite	100000000000000000
+Verbose(Yes1No0)	0
+OutputFilename	oxygenionconductor_designeroutput.txt
+AnalysisOutputFilename	oxygenionconductor_anaoutput.txt
+DoNotAnalyze(IfNone,"-") -
+AnalyzeInteractionLevel 2 2
+SkipMinMaxKurtoInAnalyzeInteraction(Yes1No0) 1
+AnalyzeDescriptors(Name_DependentOn[AtomOnly->A,StructureOnly->S,Both->B,UserDefined->U]_IfB,WhichPostFix_IfU,SpecifiyAtomKinds[LookExampleBelow])
+ElectronegativityFromO A
+Mass	A
+Valence A
+Radius06 A
+Xensity	A
+MolDensity	A
+Filling	A
+BulkModulus	A
+ShearModulus	A
+PoissonRatio	A
+ThermalConductivity	A
+ThermalExpansion	A
+OuterPrincipal	A
+OuterAzimuthal	A
+DebyeTemp	A
+Coor	S
+Radius	B Coor
+STOP
+
+*************NOTES*************
+Example of U in AnalyzeDescriptors
+n U Na * 1
+rTR U Ni Sc Ti V Cr Mn Fe Co Cu Zn Y Zr Nb Mo Tc Ru Rh Pd Ag Cd Hf Ta W Re Os Ir Pt Au Hg Rf Db Sg Bh Hs / All
+rTRe U Ni Sc Ti V Cr Mn Fe Co Cu Zn Y Zr Nb Mo Tc Ru Rh Pd Ag Cd Hf Ta W Re Os Ir Pt Au Hg Rf Db Sg Bh Hs / ! Ni Sc Ti V Cr Mn Fe Co Cu Zn Y Zr Nb Mo Tc Ru Rh Pd Ag Cd Hf Ta W Re Os Ir Pt Au Hg Rf Db Sg Bh Hs
+*******************************
+For numerator and denominator both,
+you can do one of four: specify AtomKinds, set "All", use "!"(exclude), or fix number.
+*******************************
+Multiplication (*) or division (/): either is fine. But set one.
+*************NOTES*************
+ExcludeNeighbors(IfNone,"-") Pb Be Cr Tl As Cd Mn Fe Co Ni Cu Pd Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Os Ir Pt Au Hg Cs Bi Po At Rn Fr Ra Ac Th Pa U Np Pu Am Cm Bk Cf Es Fm Md No Lr Rf Db Sg Bh Hs Mt Ds Rg Cn Nh Fl Mc Lv Ts Og Mm Lm

@@ -1,0 +1,14 @@
+name Log10A
+beta_target_type(e.g.,none-logit-probit-cloglog-cauchit-nloglog) none
+basic_properties_GoodRegressor_filename OxygenIon//Log10A_ch4//basic_properties_GoodRegressor.txt
+chain_filenames
+OxygenIon//Log10A_ch4//output_input_oxygenionconductor_Log10A_Log10A_1L20.txt
+OxygenIon//Log10A_ch4//output_input_oxygenionconductor_Log10A_Log10A_2L19I.txt
+OxygenIon//Log10A_ch4//output_input_oxygenionconductor_Log10A_Log10A_3L18I.txt
+OxygenIon//Log10A_ch4//output_input_oxygenionconductor_Log10A_Log10A_4L17I.txt
+OxygenIon//Log10A_ch4//output_input_oxygenionconductor_Log10A_Log10A_5L16I.txt
+OxygenIon//Log10A_ch4//output_input_oxygenionconductor_Log10A_Log10A_6L15I.txt
+OxygenIon//Log10A_ch4//output_input_oxygenionconductor_Log10A_Log10A_7L14I.txt
+OxygenIon//Log10A_ch4//output_input_oxygenionconductor_Log10A_Log10A_8L13I.txt
+OxygenIon//Log10A_ch4//output_input_oxygenionconductor_Log10A_Log10A_9L12I.txt
+STOP

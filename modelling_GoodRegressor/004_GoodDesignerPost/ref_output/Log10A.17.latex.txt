@@ -1,0 +1,21 @@
+1	4.20405593715104899991e-5	2.89095181999109795967	\frac{\langleC\rangle}{\langle\kappa\rangle}
+2	4.37864870078224099994e-5	1.59768549535258896910	\frac{\langle\chi_{\Delta O}\rangle}{\langle\kappa\rangle}
+3	-1.31888628572370087966e+1	-1.50235120252151066467	(\log_{10}(\frac{O_{M}}{\langleG\rangle}))^{-1}
+4	-4.7981666600680412671e+1	-1.49738493335597699918	\left(\mathrm{erf}\left(0.100000\frac{\langleC\rangle}{\langler_{\rm VI}\rangle}\right)\right)^{2}
+5	-7.80726650415522610628e-2	-1.36216489409745800110	\sigma\left(B\right)
+6	-7.84763786714556000009e-6	-1.18789904223283748763	\frac{\langle\rho\rangle}{\langle\kappa\rangle}
+7	1.27422637184487014261e-1	1.09940093491401746917	\sigma\left(G\right)
+8	8.65050156308501572155e-1	0.96168206999555527759	\langle\rho_{\rm mol}\rangle\langle\alpha\rangle
+9	2.13584066471794627207e-2	0.88699315257204047747	\langleB\rangle\langlel\rangle
+10	-2.44275775358912241586e+1	-0.85369537768539016653	\left(\mathrm{erf}\left(\frac{\langle\chi_{\Delta O}\rangle}{\langleG\rangle}-\frac{1}{2}\right)\right)^{2}
+11	3.9072237558129092605e+0	0.68162721540665716091	\sin\left(15.707963\frac{\langler_{\rm VI}\rangle}{\langlen\rangle}\right)
+12	-2.83608861224910002719e+0	-0.65664130856462554764	\sin\left(0.314159\frac{\langleM\rangle}{\langle\rho\rangle}\right)
+13	-1.53573933657051497903e+0	-0.60228855493249111586	\langle\rho\rangle\langle\nu\rangle
+14	-2.63447565642999999995e-9	-0.58659713526411805251	\left(\langleB\rangle\langlen_{c}\rangle\right)^{3}
+15	-9.13248282704686964451e+0	-0.46288574953139283163	\cos\left(0.003142\langle\chi_{\Delta O}\rangle\langleM\rangle\right)
+16	3.65569830057065564688e+3	0.37011168438491820476	\left(\mathrm{erf}\left(\langle\alpha\rangle\langle\kappa\rangle-0.100000\right)\right)^{2}
+17	4.6374144275903645962e+0	0.30414075396130363371	\left(\sigma\left(\nu\right)\right)^{0.333333}
+18	2.75693260022653097163e-1	0.26365338443649583011	\langlen_{c}\rangle\langler\rangle
+19	-5.10027562571901071919e+0	-0.20683299641702684868	\sin\left(157.079633\frac{\langle\rho_{\rm mol}\rangle}{\langlen_{c}\rangle}\right)
+20	-2.50389857449185182503e-1	-0.07981278354470237868	\cos\left(1000O_{M}\langlen_{c}\rangle\right)
+INTERCEPT	-2.6191767408386255056e+1

@@ -1,0 +1,19 @@
+1	-4.1642711544114504818e+1	-1.88441210417590965243	\sin\left(0.001571\frac{O_{M}}{\langler_{\rm VI}\rangle}\right)\frac{\langleC\rangle\langlen_{c}\rangle}{\left(\mathrm{erf}\left(\sigma\left(\chi_{\Delta O}\right)-1\right)\right)^{2}}
+2	1.95228766431081821793e+4	1.25107618302997281035	\left(10^{\left(\mathrm{erf}\left(\left(\mathrm{erf}\left(0.100000\langle\chi_{\Delta O}\rangle\langleC\rangle\right)\right)^{2}\sin\left(0.015708\sigma\left(G\right)\right)-1\right)\right)^{2}\sin\left(0.003142\sigma\left(\rho_{\rm mol}\right)\right)}\right)^{3}
+3	1.29528311819792474324e+1	1.23590600552194129769	(\log_{10}(O_{M}\langleC\rangle))^{3}
+4	-8.74072579915702772269e+3	-1.22709422427951309054	\mathrm{erf}\left(10\cos\left(0.031416\frac{\langleB\rangle}{\langlen\rangle}\left(\frac{\langler_{\rm VI}\rangle}{\langler\rangle}\right)^{3}\right)\sin\left(0.003142\sigma\left(\rho_{\rm mol}\right)\right)\right)
+5	1.96336505120156892992e-3	1.16594123701458363129	\frac{\frac{O_{M}\langle\theta\rangle}{\left(\mathrm{erf}\left(\sigma\left(\chi_{\Delta O}\right)-1\right)\right)^{2}}}{\sin\left(0.001571\frac{\langle\theta\rangle}{\langler\rangle}\left(\frac{\langler_{\rm VI}\rangle}{\langler\rangle}\right)^{3}\right)}
+6	-6.23257111694353188591e-2	-1.02594439562214390094	\langleB\rangle\langler\rangle
+7	-6.63471010870811817028e+0	-0.98443638175624370579	\cos\left(1.570796\frac{\left(\mathrm{erf}\left(0.100000\langle\chi_{\Delta O}\rangle\langlen\rangle\right)\right)^{2}}{\left(\mathrm{erf}\left(\left(\mathrm{erf}\left(0.100000\langle\chi_{\Delta O}\rangle\langleC\rangle\right)\right)^{2}\sin\left(0.015708\sigma\left(G\right)\right)-1\right)\right)^{2}}\right)
+8	1.84794670426904361626e+0	0.88955774468910575603	\langle\chi_{\Delta O}\rangle\langleC\rangle
+9	-9.1536187760953868775e+0	-0.84993660730104458878	\langler_{\rm VI}\rangle\langler\rangle
+10	4.18998857953375214436e-1	0.66446005948216313453	\left(\frac{\sin\left(0.001571\frac{O_{M}}{\langler_{\rm VI}\rangle}\right)}{\frac{\langleC\rangle\langlen_{c}\rangle}{\left(\mathrm{erf}\left(\sigma\left(\chi_{\Delta O}\right)-1\right)\right)^{2}}}\right)^{-0.333333}
+11	-5.95706231294902190566e+7	-0.36267822292241952420	\left(\mathrm{erf}\left(0.010000\frac{\langle\eta_{f}\rangle}{\langlen_{c}\rangle}\right)\right)^{2}
+12	-3.34113690826591547278e+0	-0.31670303111768988158	\left(\mathrm{erf}\left(\sigma\left(n\right)-\frac{1}{2}\right)\right)^{2}
+13	-1.00000000000000000003e-20	-0.29830401104722487071	\left(\frac{\langleB\rangle\langler\rangle}{\left(\mathrm{erf}\left(0.010000\frac{\langle\eta_{f}\rangle}{\langle\nu\rangle}\right)\right)^{2}}\left(\mathrm{erf}\left(0.100000\langle\chi_{\Delta O}\rangle\langlen\rangle\right)\right)^{2}\right)^{3}
+14	-2.15605454928729081132e+1	-0.29088865883393699718	\left(10^{\frac{\frac{O_{M}\langle\theta\rangle}{\left(\mathrm{erf}\left(\sigma\left(\chi_{\Delta O}\right)-1\right)\right)^{2}}}{\frac{\langle\rho\rangle}{\langle\kappa\rangle}}}\right)^{3}
+15	2.21784677120844431197e-1	0.25259321066960965796	\langle\rho_{\rm mol}\rangle\langle\alpha\rangle
+16	-1.32147919099354349548e+0	-0.22785671503051863063	\left(\mathrm{erf}\left(\sigma\left(\rho\right)-\frac{7}{8}\right)\right)^{4}
+17	2.37317406001932118542e+0	0.22304126450265651660	\cos\left(100\frac{\langle\chi_{\Delta O}\rangle}{\langle\theta\rangle}\right)
+18	4.60112415103456577016e-3	0.14144589261543996650	\frac{O_{M}\langle\theta\rangle}{\left(\mathrm{erf}\left(\sigma\left(\chi_{\Delta O}\right)-1\right)\right)^{2}}\sin\left(0.003142\frac{\langle\theta\rangle}{\langler\rangle}\sin\left(0.015708r\left(G\right)\right)\right)
+INTERCEPT	-1.94856208950989421282e+4

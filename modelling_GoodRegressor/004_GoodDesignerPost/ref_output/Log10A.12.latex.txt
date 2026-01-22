@@ -1,0 +1,19 @@
+1	-1.83185947089691808287e+3	-15.81005394253710250041	\left(\mathrm{erf}\left(\sin\left(0.031416(\log_{10}(\frac{\langleC\rangle}{\langle\rho_{\rm mol}\rangle}))^{3}\right)\cos\left(0.001571\left(\frac{\langlel\rangle}{\langler\rangle}\right)^{\frac{1}{2}}\left(10^{\frac{\langleC\rangle}{\langleG\rangle}}\right)^{3}\right)-\frac{7}{8}\right)\right)^{3}
+2	1.63358216062089195475e+3	14.42688167805461318949	\sin\left(\frac{\sin\left(0.031416(\log_{10}(\frac{\langleC\rangle}{\langle\rho_{\rm mol}\rangle}))^{3}\right)}{\cos\left(0.001571\left(\frac{\langlel\rangle}{\langler\rangle}\right)^{\frac{1}{2}}\left(10^{\frac{\langleC\rangle}{\langleG\rangle}}\right)^{3}\right)}\right)
+3	4.54175964486705322992e-3	2.62993310118556156141	\frac{\langleB\rangle\frac{\langleB\rangle}{\langlen_{c}\rangle}}{\cos\left(0.001571\left(\frac{\langlel\rangle}{\langler\rangle}\right)^{\frac{1}{2}}\left(10^{\frac{\langleC\rangle}{\langleG\rangle}}\right)^{3}\right)}
+4	-1.05347772939353934163e-1	-1.99589068606078323675	\langleB\rangle
+5	-1.95675271333751501516e+5	-1.61543073352320365466	\left(\mathrm{erf}\left(\sin\left(0.001571\langleB\rangle(\log_{10}(\langleM\rangle\langle\rho_{\rm mol}\rangle))^{3}\right)\mathrm{erf}\left(0.001000\langle\chi_{\Delta O}\rangle\right)-0.050000\right)\right)^{2}
+6	-4.07180194494179161779e+1	-1.45433447806748961106	\mathrm{erf}\left(\langleC\rangle\langle\eta_{f}\rangle-0.100000\right)
+7	-1.1398528363422753884e+1	-1.14735417079578971844	\cos\left(0.157080O_{M}\langlen\rangle\right)
+8	4.080641849985987335e+1	0.99857398779594974680	\sin\left(0.003142\langle\rho\rangle\langlen_{c}\rangle\right)
+9	3.1952923789448622216e+1	0.95832950895287016824	\sin\left(1.570796\sin\left(\langleC\rangle\langler_{\rm VI}\rangle\right)\sigma\left(B\right)\mathrm{erf}\left(0.001000\langle\chi_{\Delta O}\rangle\right)\right)
+10	-9.14770954992530638329e-2	-0.90949171021909069879	\frac{\langle\rho\rangle}{\langle\eta_{f}\rangle}
+11	-8.98929935068379570851e+0	-0.82876669041162986939	\left(\mathrm{erf}\left(\frac{\left(\mathrm{erf}\left((\log_{10}(\langleM\rangle\langle\rho_{\rm mol}\rangle))^{3}(\log_{10}(\sigma\left(\nu\right)))^{-1}-0.050000\right)\right)^{2}}{\cos\left(0.001571\left(\frac{\langlel\rangle}{\langler\rangle}\right)^{\frac{1}{2}}\left(10^{\frac{\langleC\rangle}{\langleG\rangle}}\right)^{3}\right)}-1\right)\right)^{2}
+12	4.76241238952854473609e+4	0.79543138555442427506	\left(10^{\frac{\langle\kappa\rangle}{\langlen\rangle}}\right)^{-3}
+13	1.83060540597757568004e-3	0.58168063375012823979	\langleB\rangle\frac{\langleB\rangle}{\langlen_{c}\rangle}\cos\left(0.015708\frac{\langleB\rangle}{\left(\frac{\langlel\rangle}{\langler\rangle}\right)^{\frac{1}{2}}}\right)
+14	-1.47750678043330263556e+0	-0.38335605520763638143	\cos\left(\langlel\rangle\right)
+15	-7.99289864821291029529e+0	-0.29513950638326430509	\left(\mathrm{erf}\left(\cos\left(0.015708\frac{\langleB\rangle}{\left(\frac{\langlel\rangle}{\langler\rangle}\right)^{\frac{1}{2}}}\right)\sin\left(0.157080\left(10^{\frac{\langleC\rangle}{\langleG\rangle}}\right)^{3}\left(\mathrm{erf}\left(\sigma\left(n\right)-\frac{7}{8}\right)\right)^{3}\right)-\frac{1}{2}\right)\right)^{2}
+16	-4.0542758443873970009e+2	-0.18062870230065142252	\left(\mathrm{erf}\left(\sigma\left(C\right)\sin\left(0.003142\langlen\rangle\langler\rangle\cos\left(0.001000\langleB\rangle\langle\theta\rangle\right)\right)-0.050000\right)\right)^{2}
+17	3.96195829846183622536e-1	0.16036785040398798818	\mathrm{erf}\left(10r\left(C\right)\right)
+18	3.95946516655156965925e+0	0.15101124666761073234	\left(\mathrm{erf}\left(\sigma\left(\chi_{\Delta O}\right)\right)\right)^{2}
+INTERCEPT	-4.78224043362647571485e+4

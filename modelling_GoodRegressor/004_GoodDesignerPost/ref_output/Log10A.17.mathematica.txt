@@ -1,0 +1,23 @@
+1	4.20405593715104899991*10^-5	2.89095181999109795967	((Subscript[C, ave])/(Subscript[\[Kappa], ave]))
+2	4.37864870078224099994*10^-5	1.59768549535258896910	((Subscript[Subscript["\[Chi]", "\[CapitalDelta] O"], ave])/(Subscript[\[Kappa], ave]))
+3	-1.31888628572370087966*10^1	-1.50235120252151066467	Power[Log[10, ((Subscript[O, M])/(Subscript[G, ave]))], -1]
+4	-4.7981666600680412671*10^1	-1.49738493335597699918	Power[Erf[0.100000(((Subscript[C, ave])/(Subscript[Subscript["r", "VI"], ave])))], 2]
+5	-7.80726650415522610628*10^-2	-1.36216489409745800110	Subscript[B, stdev]
+6	-7.84763786714556000009*10^-6	-1.18789904223283748763	((Subscript[\[Rho], ave])/(Subscript[\[Kappa], ave]))
+7	1.27422637184487014261*10^-1	1.09940093491401746917	Subscript[G, stdev]
+8	8.65050156308501572155*10^-1	0.96168206999555527759	((Subscript[Subscript["\[Rho]", "mol"], ave])*(Subscript[\[Alpha], ave]))
+9	2.13584066471794627207*10^-2	0.88699315257204047747	((Subscript[B, ave])*(Subscript[l, ave]))
+10	-2.44275775358912241586*10^1	-0.85369537768539016653	Power[Erf[((Subscript[Subscript["\[Chi]", "\[CapitalDelta] O"], ave])/(Subscript[G, ave]))-1/2], 2]
+11	3.9072237558129092605*10^0	0.68162721540665716091	Sin[15.707963(((Subscript[Subscript["r", "VI"], ave])/(Subscript[n, ave])))]
+12	-2.83608861224910002719*10^0	-0.65664130856462554764	Sin[0.314159(((Subscript[M, ave])/(Subscript[\[Rho], ave])))]
+13	-1.53573933657051497903*10^0	-0.60228855493249111586	((Subscript[\[Rho], ave])*(Subscript[\[Nu], ave]))
+14	-2.63447565642999999995*10^-9	-0.58659713526411805251	Power[((Subscript[B, ave])*(Subscript[Subscript["n", "c"], ave])), 3]
+15	-9.13248282704686964451*10^0	-0.46288574953139283163	Cos[0.003142(((Subscript[Subscript["\[Chi]", "\[CapitalDelta] O"], ave])*(Subscript[M, ave])))]
+16	3.65569830057065564688*10^3	0.37011168438491820476	Power[Erf[((Subscript[\[Alpha], ave])*(Subscript[\[Kappa], ave]))-0.100000], 2]
+17	4.6374144275903645962*10^0	0.30414075396130363371	Power[Subscript[\[Nu], stdev], 0.333333]
+18	2.75693260022653097163*10^-1	0.26365338443649583011	((Subscript[Subscript["n", "c"], ave])*(Subscript[r, ave]))
+19	-5.10027562571901071919*10^0	-0.20683299641702684868	Sin[157.079633(((Subscript[Subscript["\[Rho]", "mol"], ave])/(Subscript[Subscript["n", "c"], ave])))]
+20	-2.50389857449185182503*10^-1	-0.07981278354470237868	Cos[1000(((Subscript[O, M])*(Subscript[Subscript["n", "c"], ave])))]
+INTERCEPT	-2.6191767408386255056*10^1
+============================================
+Log10A17 = Simplify[ 4.20405593715104899991*10^-5 ((Subscript[C, ave])/(Subscript[\[Kappa], ave])) + 4.37864870078224099994*10^-5 ((Subscript[Subscript["\[Chi]", "\[CapitalDelta] O"], ave])/(Subscript[\[Kappa], ave])) + -1.31888628572370087966*10^1 Power[Log[10, ((Subscript[O, M])/(Subscript[G, ave]))], -1] + -4.7981666600680412671*10^1 Power[Erf[0.100000(((Subscript[C, ave])/(Subscript[Subscript["r", "VI"], ave])))], 2] + -7.80726650415522610628*10^-2 Subscript[B, stdev] + -7.84763786714556000009*10^-6 ((Subscript[\[Rho], ave])/(Subscript[\[Kappa], ave])) + 1.27422637184487014261*10^-1 Subscript[G, stdev] + 8.65050156308501572155*10^-1 ((Subscript[Subscript["\[Rho]", "mol"], ave])*(Subscript[\[Alpha], ave])) + 2.13584066471794627207*10^-2 ((Subscript[B, ave])*(Subscript[l, ave])) + -2.44275775358912241586*10^1 Power[Erf[((Subscript[Subscript["\[Chi]", "\[CapitalDelta] O"], ave])/(Subscript[G, ave]))-1/2], 2] + 3.9072237558129092605*10^0 Sin[15.707963(((Subscript[Subscript["r", "VI"], ave])/(Subscript[n, ave])))] + -2.83608861224910002719*10^0 Sin[0.314159(((Subscript[M, ave])/(Subscript[\[Rho], ave])))] + -1.53573933657051497903*10^0 ((Subscript[\[Rho], ave])*(Subscript[\[Nu], ave])) + -2.63447565642999999995*10^-9 Power[((Subscript[B, ave])*(Subscript[Subscript["n", "c"], ave])), 3] + -9.13248282704686964451*10^0 Cos[0.003142(((Subscript[Subscript["\[Chi]", "\[CapitalDelta] O"], ave])*(Subscript[M, ave])))] + 3.65569830057065564688*10^3 Power[Erf[((Subscript[\[Alpha], ave])*(Subscript[\[Kappa], ave]))-0.100000], 2] + 4.6374144275903645962*10^0 Power[Subscript[\[Nu], stdev], 0.333333] + 2.75693260022653097163*10^-1 ((Subscript[Subscript["n", "c"], ave])*(Subscript[r, ave])) + -5.10027562571901071919*10^0 Sin[157.079633(((Subscript[Subscript["\[Rho]", "mol"], ave])/(Subscript[Subscript["n", "c"], ave])))] + -2.50389857449185182503*10^-1 Cos[1000(((Subscript[O, M])*(Subscript[Subscript["n", "c"], ave])))]+-2.6191767408386255056*10^1 ];

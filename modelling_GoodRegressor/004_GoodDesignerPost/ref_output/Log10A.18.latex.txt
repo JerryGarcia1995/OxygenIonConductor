@@ -1,0 +1,19 @@
+1	-2.52898805547353227041e+1	-2.11099760673643821463	\sin\left(0.157080\frac{O_{M}}{\langlen_{c}\rangle}\langleB\rangle\langlen\rangle\sin\left(0.010000\sigma\left(C\right)\right)\right)
+2	-2.19114465511926894692e+1	-1.85344429974440982889	\cos\left(0.157080\langlen_{c}\rangle\right)
+3	-5.54069732794856406599e+0	-1.16218824472321324848	\cos\left(0.015708\langlen\rangle\langlen_{c}\rangle\sin\left(0.001000\langleC\rangle\langleB\rangle\right)O_{M}\langleC\rangle\right)
+4	2.52777975512281782855e+0	1.10307670657117018465	\left(\frac{\langleB\rangle\langlen\rangle2.718280^{\langle\nu\rangle\langle\kappa\rangle}}{\frac{\langle\rho\rangle}{\langlel\rangle}}\right)^{0.333333}
+5	5.0723986955745367311e+1	1.08820404834532147298	\left(\mathrm{erf}\left(\cos\left(1.570796\frac{\langler_{\rm VI}\rangle}{\langler\rangle}\right)\langleB\rangle\langlen\rangle\left(\mathrm{erf}\left(\frac{O_{M}}{\langleB\rangle}-0.050000\right)\right)^{2}-\frac{7}{8}\right)\right)^{4}
+6	3.59264110772545208761e+1	0.87365716889416999980	\sin\left(0.015708\langle\chi_{\Delta O}\rangle\langlen_{c}\rangle\right)
+7	-1.18021067756013505997e-3	-0.71256683329655345904	\langleM\rangle\langle\theta\rangle\frac{\langler_{\rm VI}\rangle}{\langlen\rangle}
+8	1.18811011294954315503e-2	0.71042721975011180469	\langleB\rangle\langlen\rangle2.718280^{\langle\nu\rangle\langle\kappa\rangle}\left(\mathrm{erf}\left(\frac{\sin\left(\frac{\langle\chi_{\Delta O}\rangle}{\langler_{\rm VI}\rangle}\right)}{2.718280^{\langle\nu\rangle\langle\kappa\rangle}}\right)\right)^{2}
+9	3.67303159078034715992e-3	0.48079165883578267593	\cos\left(1.570796\frac{\langler_{\rm VI}\rangle}{\langler\rangle}\right)\langleM\rangle\langleG\rangle\sin\left(15.707963\sigma\left(\nu\right)\right)
+10	7.42586382245828624526e-1	0.47016695357867122063	O_{M}\langleC\rangle\left(\mathrm{erf}\left(0.100000\langle\rho_{\rm mol}\rangle\langle\alpha\rangle\right)\right)^{2}
+11	-2.14782262059915218799e+0	-0.46926980675654095254	\langle\nu\rangle\langlen_{c}\rangle
+12	-1.36026528862536272291e-1	-0.43128221489816292999	\left(\frac{\langleC\rangle}{\langler_{\rm VI}\rangle}\right)^{2}
+13	-4.03496965054909040305e+0	-0.39563018256878912382	\sin\left(15.707963\frac{O_{M}}{\langlen_{c}\rangle}\left(\mathrm{erf}\left(\sin\left(0.001000\langleC\rangle\langleB\rangle\right)2.718280^{\langle\nu\rangle\langle\kappa\rangle}-1\right)\right)^{2}\right)
+14	-9.06869253109520514045e+2	-0.36660763037672416953	\left(10^{\frac{\langlen\rangle\langlen_{c}\rangle\sin\left(0.001000\langleC\rangle\langleB\rangle\right)}{\langleM\rangle\langle\theta\rangle}}\right)^{3}
+15	-3.08231643076322552588e+3	-0.29054383716786102987	\mathrm{erf}\left(10\sigma\left(\kappa\right)\right)
+16	8.74788900457246931808e+0	0.25134836126911730414	\sin\left(0.100000\frac{\langleM\rangle}{\langle\rho\rangle}\right)
+17	-1.88675462404605309708e+0	-0.24972391318223211010	\mathrm{erf}\left(0.100000O_{M}\langleC\rangle(\log_{10}(\langlen\rangle\langlel\rangle))^{2}\cos\left(3.141593r\left(\theta\right)\right)\right)
+18	1.0615733749813756337e-1	0.23965696566408214996	\frac{\langleC\rangle}{\langlel\rangle}
+INTERCEPT	9.16626794469601009041e+2
