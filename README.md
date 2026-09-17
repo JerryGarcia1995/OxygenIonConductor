@@ -83,5 +83,13 @@ Reference
 ---------
 Jang, S.-H., Kiyohara, S., Takamura, H. & Kumagai, Y. Charting the Landscape of Oxygen Ion Conductors: A 60-Year Dataset with Interpretable Regression Models. Sci Data (2026). https://doi.org/10.1038/s41597-026-07100-x
 
+Notice (as of Sep 18th, 2026)
+---------
+
+Sorry pal, I moved the GoodRegressor package codes to 
+https://github.com/JerryGarcia1995/GoodRegressor
+
+So long!
+
 Jang, S.-H. GoodRegressor: A Hierarchical Inductive Bias for Navigating High-Dimensional Compositional Space, arXiv:2510.18325 
 https://doi.org/10.48550/arXiv.2510.18325
